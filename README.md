@@ -1,2 +1,2 @@
-# scribbler-notebooks
+# Scribbler Notebooks
 JavaScript notebooks for Scribbler.
