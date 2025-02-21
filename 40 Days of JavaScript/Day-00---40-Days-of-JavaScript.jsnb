@@ -15,9 +15,9 @@
       "type": "html"
     },
     {
-      "code": "scribe.show(\"Welcome to 40 Days of JavaScript!\");",
-      "status": "[-]",
-      "output": "<p class=\"error\">scribe is not defined</p>",
+      "code": "scrib.show(\"Welcome to 40 Days of JavaScript!\");",
+      "status": "[1]<br><span style=\"font-size:8px\">2ms<span></span></span>",
+      "output": "Welcome to 40 Days of JavaScript! <br>",
       "type": "code"
     }
   ],
