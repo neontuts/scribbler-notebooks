@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "name": "Day 00 - 40 Days of JavaScript",
+    "language_info": {
+      "name": "JavaScipt",
+      "version": "8.0"
+    }
+  },
+  "jsnbversion": "v0.1",
+  "cells": [
+    {
+      "code": "# Day 00 - 40 Days of JavaScript\n\nLearn 40 days of JavaScript on [tapaScript](https://youtube.com/tapasadhikary). It is to take you from the Beginner to an Expert JavaScript developer with al fundamentals and projects.\n\n## Table of Content\n\n- Day 01: Introduction to JavaScript & Setting Up the Environment &rarr; [Watch Video](https://youtu.be/t8QXF85YovE) || [View Notebook](https://github.com/tapascript/40-days-of-javascript/blob/main/day-01/README.md)\n- Day 02: Variables (let, const, var) & Data Types &rarr; [Watch Video](https://www.youtube.com/watch?v=tVqy4Tw0i64) || [View Notebook](https://github.com/tapascript/40-days-of-javascript/blob/main/day-02/README.md)\n- Day 03: Mater Operators and Expressions &rarr; [Watch Video](https://youtu.be/vI95K-_JLOw) || [View Notebook](https://github.com/tapascript/40-days-of-javascript/blob/main/day-03/README.md)\n- Day 04: Matering Control Flow with Quizzes &rarr; [Watch Video](https://youtu.be/Fn_DhBu3VyU) || [View Notebook](https://github.com/tapascript/40-days-of-javascript/blob/main/day-04/README.md)\n",
+      "status": "",
+      "output": "<h1>Day 00 - 40 Days of JavaScript</h1>\n<p>Learn 40 days of JavaScript on <a href=\"https://youtube.com/tapasadhikary\">tapaScript</a>. It is to take you from the Beginner to an Expert JavaScript developer with al fundamentals and projects.</p>\n<h2>Table of Content</h2>\n<ul>\n<li>Day 01: Introduction to JavaScript &amp; Setting Up the Environment → <a href=\"https://youtu.be/t8QXF85YovE\">Watch Video</a> || <a href=\"https://github.com/tapascript/40-days-of-javascript/blob/main/day-01/README.md\">View Notebook</a></li>\n<li>Day 02: Variables (let, const, var) &amp; Data Types → <a href=\"https://www.youtube.com/watch?v=tVqy4Tw0i64\">Watch Video</a> || <a href=\"https://github.com/tapascript/40-days-of-javascript/blob/main/day-02/README.md\">View Notebook</a></li>\n<li>Day 03: Mater Operators and Expressions → <a href=\"https://youtu.be/vI95K-_JLOw\">Watch Video</a> || <a href=\"https://github.com/tapascript/40-days-of-javascript/blob/main/day-03/README.md\">View Notebook</a></li>\n<li>Day 04: Matering Control Flow with Quizzes → <a href=\"https://youtu.be/Fn_DhBu3VyU\">Watch Video</a> || <a href=\"https://github.com/tapascript/40-days-of-javascript/blob/main/day-04/README.md\">View Notebook</a></li>\n</ul>\n",
+      "type": "html"
+    },
+    {
+      "code": "scribe.show(\"Welcome to 40 Days of JavaScript!\");",
+      "status": "[-]",
+      "output": "<p class=\"error\">scribe is not defined</p>",
+      "type": "code"
+    }
+  ],
+  "source": "https://github.com/gopi-suvanam/scribbler",
+  "run_on_load": false
+}
